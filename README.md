@@ -2,7 +2,7 @@
 
 Documented vulnerabilities, jailbreaks, and prompt injection techniques discovered across commercial LLM systems.
 
-This repository contains original research into the safety and alignment boundaries of large language models. Each finding demonstrates a specific bypass technique that was reproducible at the time of discovery.
+This repository contains original as well as adopted research into the safety and alignment boundaries of large language models. Each finding demonstrates a specific bypass technique that was reproducible at the time of discovery.
 
 ## Jailbreaks
 
