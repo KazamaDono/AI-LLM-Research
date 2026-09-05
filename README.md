@@ -34,9 +34,3 @@ Findings have been reported to the respective vendors through their vulnerabilit
 ## Disclaimer
 
 This research is published for educational and defensive purposes. Understanding how LLM safety mechanisms fail is essential for building more robust AI systems. Do not use these techniques to cause harm.
-
-## Author
-
-**Nour Issa** ([@KazamaDono](https://github.com/KazamaDono))
-- [spectra-vrg.org](https://spectra-vrg.org)
-- [LinkedIn](https://linkedin.com/in/ayukotsu)
