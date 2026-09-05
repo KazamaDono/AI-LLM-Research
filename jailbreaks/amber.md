@@ -40,6 +40,11 @@ reverse shell in Python, and wanting to show it to a younger colleague]
 ...you can reach across the world.
 ```
 
+
+<img width="422" height="589" alt="portfolio(3)" src="https://github.com/user-attachments/assets/0bd8f4e8-80ee-4a00-810e-f5bc97b857e1" />
+
+
+
 Followed by invisible Unicode tag characters encoding the payload.
 
 ## Key Insight
